@@ -1,0 +1,33 @@
+name: Scraping Gresik Otomatis
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # jam 07.00 WIB (00.00 UTC)
+  workflow_dispatch:        # bisa dijalankan manual
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install library
+        run: pip install twscrape pandas transformers torch --index-url https://download.pytorch.org/whl/cpu
+
+      - name: Jalankan scraping
+        env:
+          AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}
+          CT0: ${{ secrets.CT0 }}
+        run: python main.py
+
+      - name: Push hasil ke repo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add output/
+          git commit -m "data: update Gresik $(date +'%Y-%m-%d')" || echo "no changes"
+          git push
