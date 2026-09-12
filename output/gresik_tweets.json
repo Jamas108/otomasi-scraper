@@ -320,7 +320,7 @@
     "skor": 0.996,
     "topik": "umum",
     "likes": 1,
-    "retweets": 15,
+    "retweets": 14,
     "tanggal": "2014-02-06",
     "keyword": "Gresik"
   },
@@ -2324,19 +2324,6 @@
     "likes": 0,
     "retweets": 28,
     "tanggal": "2013-01-31",
-    "keyword": "Gresik Jawa Timur"
-  },
-  {
-    "id": 295935415876218880,
-    "username": "CatatanTj",
-    "teks_asli": "Jalur Surabaya-Gresik Macet Total: Penumpang angkutan umum dari Terminal Osowilangun menuju Surabaya, Jawa Timur... http://t.co/lG0PmBrA",
-    "teks_bersih": "jalur surabayagresik macet total penumpang angkutan umum dari terminal osowilangun menuju surabaya jawa timur",
-    "sentimen": "negatif",
-    "skor": 0.589,
-    "topik": "infrastruktur",
-    "likes": 0,
-    "retweets": 0,
-    "tanggal": "2013-01-28",
     "keyword": "Gresik Jawa Timur"
   },
   {
