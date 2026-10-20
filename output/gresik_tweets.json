@@ -7,7 +7,7 @@
     "sentimen": "negatif",
     "skor": 0.523,
     "topik": "infrastruktur",
-    "likes": 13,
+    "likes": 15,
     "retweets": 0,
     "tanggal": "2026-10-13",
     "keyword": "Gresik"
@@ -33,7 +33,7 @@
     "sentimen": "negatif",
     "skor": 0.97,
     "topik": "umum",
-    "likes": 101,
+    "likes": 103,
     "retweets": 39,
     "tanggal": "2026-10-13",
     "keyword": "Gresik"
@@ -449,8 +449,8 @@
     "sentimen": "negatif",
     "skor": 0.992,
     "topik": "umum",
-    "likes": 40921,
-    "retweets": 3647,
+    "likes": 40919,
+    "retweets": 3648,
     "tanggal": "2026-10-12",
     "keyword": "Gresik"
   },
@@ -553,7 +553,7 @@
     "sentimen": "negatif",
     "skor": 0.993,
     "topik": "umum",
-    "likes": 0,
+    "likes": 1,
     "retweets": 0,
     "tanggal": "2026-10-13",
     "keyword": "Gresik"
