@@ -7,7 +7,7 @@
     "sentimen": "negatif",
     "skor": 0.523,
     "topik": "infrastruktur",
-    "likes": 16,
+    "likes": 17,
     "retweets": 0,
     "tanggal": "2026-10-13",
     "keyword": "Gresik"
@@ -47,6 +47,19 @@
     "skor": 0.744,
     "topik": "infrastruktur",
     "likes": 15,
+    "retweets": 0,
+    "tanggal": "2026-10-13",
+    "keyword": "Gresik"
+  },
+  {
+    "id": 2109954920203878899,
+    "username": "petrogresik",
+    "teks_asli": "Tim “kemangi harus banyak” pasti paham, lalapan satu ini memang bikin makan makin nikmat! 🌿😆\n\nBukan hanya memberi aroma segar pada penyetan, pepes, atau sambal, daun kemangi juga mengandung vitamin, mineral, dan antioksidan alami. Menariknya, kemangi mudah ditanam di rumah serta dapat dipanen berulang kali. 🌱\n\nYuk, mulai tanam stok kemangi sendiri dengan menyiapkan media tanam yang baik menggunakan Petroganik.\n\nKalau Sahabat, tim kemangi banyak atau secukupnya nih? 😁🌿\n\n#PetrokimiaGresik #SolusiAgroindustri #DaunKemangi #TanamanRumahan #KandunganKemangi",
+    "teks_bersih": "tim kemangi harus banyak pasti paham lalapan satu ini memang bikin makan makin nikmat bukan hanya memberi aroma segar pada penyetan pepes atau sambal daun kemangi juga mengandung vitamin mineral dan antioksidan alami menariknya kemangi mudah ditanam di rumah serta dapat dipanen berulang kali yuk mulai tanam stok kemangi sendiri dengan menyiapkan media tanam yang baik menggunakan petroganik kalau sahabat tim kemangi banyak atau secukupnya nih petrokimiagresik solusiagroindustri daunkemangi tanamanrumahan kandungankemangi",
+    "sentimen": "positif",
+    "skor": 0.978,
+    "topik": "industri",
+    "likes": 2,
     "retweets": 0,
     "tanggal": "2026-10-13",
     "keyword": "Gresik"
@@ -763,19 +776,6 @@
     "topik": "infrastruktur",
     "likes": 1,
     "retweets": 0,
-    "tanggal": "2014-02-05",
-    "keyword": "Gresik"
-  },
-  {
-    "id": 431050185922584576,
-    "username": "infoGRESIK",
-    "teks_asli": "Ikuti seminar Sumber UANG Masa Depan di INTERNET w/ @pakarseo 12 Feb 2014 @ Graha Petrokimia. CP: @tweetoptimush 08563000680 BBM: 329D2DF7",
-    "teks_bersih": "ikuti seminar sumber uang masa depan di internet w 12 feb 2014 graha petrokimia cp 08563000680 bbm 329d2df7",
-    "sentimen": "netral",
-    "skor": 0.997,
-    "topik": "industri",
-    "likes": 1,
-    "retweets": 1,
     "tanggal": "2014-02-05",
     "keyword": "Gresik"
   },
@@ -2212,7 +2212,7 @@
   {
     "id": 341758941635674112,
     "username": "voicebobotoh",
-    "teks_asli": "Persib Keok di Gresik, Ini Dalih Jajang Nurjaman: \n\n\n\nPersib Bandung kembali tumbang di Jawa Timur. Se... http://t.co/p8c2SfypKv",
+    "teks_asli": "Persib Keok di Gresik, Ini Dalih Jajang Nurjaman: \n\nPersib Bandung kembali tumbang di Jawa Timur. Se... http://t.co/p8c2SfypKv",
     "teks_bersih": "persib keok di gresik ini dalih jajang nurjaman persib bandung kembali tumbang di jawa timur se",
     "sentimen": "netral",
     "skor": 0.905,
