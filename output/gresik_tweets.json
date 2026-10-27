@@ -7,7 +7,7 @@
     "sentimen": "negatif",
     "skor": 0.523,
     "topik": "infrastruktur",
-    "likes": 19,
+    "likes": 22,
     "retweets": 0,
     "tanggal": "2026-10-13",
     "keyword": "Gresik"
@@ -829,6 +829,19 @@
     "likes": 0,
     "retweets": 0,
     "tanggal": "2013-12-05",
+    "keyword": "Kabupaten Gresik"
+  },
+  {
+    "id": 400504741844619264,
+    "username": "urbancikarang",
+    "teks_asli": "13.05 UMK 2014 Kab. Gresik sementara ini tertinggi di Jawa Timur, Rp. 2.376.918. Kab. Bekasi? Sabar masih dibahas http://t.co/fbDZ62VBoV",
+    "teks_bersih": "1305 umk 2014 kab gresik sementara ini tertinggi di jawa timur rp 2376918 kab bekasi sabar masih dibahas",
+    "sentimen": "netral",
+    "skor": 0.997,
+    "topik": "industri",
+    "likes": 0,
+    "retweets": 2,
+    "tanggal": "2013-11-13",
     "keyword": "Kabupaten Gresik"
   },
   {
@@ -1729,6 +1742,19 @@
     "keyword": "Kota Gresik"
   },
   {
+    "id": 401300846094188545,
+    "username": "urbancikarang",
+    "teks_asli": "17.47 Kota Yogyakarta, Kota Gresik, Kota Bogor, Kota Tangerang Selatan, Kota Garut rata2 UMK 2014 naik sebesar Rp. 300rb dari tahun lalu.",
+    "teks_bersih": "1747 kota yogyakarta kota gresik kota bogor kota tangerang selatan kota garut rata2 umk 2014 naik sebesar rp 300rb dari tahun lalu",
+    "sentimen": "netral",
+    "skor": 0.994,
+    "topik": "umum",
+    "likes": 0,
+    "retweets": 0,
+    "tanggal": "2013-11-15",
+    "keyword": "Kota Gresik"
+  },
+  {
     "id": 400991265321275392,
     "username": "WartaKota",
     "teks_asli": "Sriwijaya FC 99 Persen Dapatkan Siswanto: Siswanto, winger lincah Gresik United, kemungkinan besar bakal merap... http://t.co/lyXU1dVgiu",
@@ -1803,19 +1829,6 @@
     "topik": "umum",
     "likes": 0,
     "retweets": 0,
-    "tanggal": "2013-10-28",
-    "keyword": "Kota Gresik"
-  },
-  {
-    "id": 394651562204614658,
-    "username": "infosurabaya",
-    "teks_asli": "09.20 | 200+ motor bergerak dari Gresik ke Surabaya dan dari Bundaran Margomulyo puluhan motor + 3 truk mengarah ke pusat kota #LalinSby",
-    "teks_bersih": "0920 200 motor bergerak dari gresik ke surabaya dan dari bundaran margomulyo puluhan motor 3 truk mengarah ke pusat kota lalinsby",
-    "sentimen": "netral",
-    "skor": 0.996,
-    "topik": "umum",
-    "likes": 0,
-    "retweets": 13,
     "tanggal": "2013-10-28",
     "keyword": "Kota Gresik"
   },
